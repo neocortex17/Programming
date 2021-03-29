@@ -1,0 +1,6 @@
+id,name,coordinates,creationDate,health,category,weaponType,meleeWeapon,chapter
+1,qwe,"22.2,22.22",2021-03-28T21:41:55.412+03:00[Europe/Moscow],25,SCOUT,COMBI_FLAMER,CHAIN_AXE,"name,world"
+2,aaaa,"33.3,33.33",2021-03-28T21:41:55.416+03:00[Europe/Moscow],33,TERMINATOR,COMBI_FLAMER,CHAIN_AXE,"qwert,qwert"
+3,qwe,"22.2,22.22",2021-03-28T21:41:55.420+03:00[Europe/Moscow],25,SCOUT,COMBI_FLAMER,CHAIN_AXE,"name,world"
+4,test,"0.0,0.00",2021-03-28T21:41:55.423+03:00[Europe/Moscow],10,SCOUT,BOLT_PISTOL,CHAIN_AXE,"test,test"
+5,dggd,"34.5,43535.50",2021-03-28T21:41:55.425+03:00[Europe/Moscow],34,SUPPRESSOR,INFERNO_PISTOL,CHAIN_AXE,"dfg,dfh"
