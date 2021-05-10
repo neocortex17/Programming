@@ -1,0 +1,4 @@
+id,name,coordinates,creationDate,health,category,weaponType,meleeWeapon,chapter
+1,dff,"3.440000,3.500000",2021-05-07T21:22:51.924+03:00[Europe/Moscow],3,SCOUT,BOLT_PISTOL,POWER_SWORD,"dddd,ssss"
+2,qwerty,"44.660000,44.770000",2021-05-07T21:23:33.943+03:00[Europe/Moscow],34,SCOUT,COMBI_FLAMER,MANREAPER,"uuu,yyyy"
+3,qwertykl,"4.770000,4.660000",2021-05-07T21:29:28.851+03:00[Europe/Moscow],55,SCOUT,COMBI_FLAMER,CHAIN_AXE,"dfgh,sdfg"
